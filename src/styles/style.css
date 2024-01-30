@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to right, darkgrey 5%, white 5%, white 95%, darkgrey 95%);
+}	
+
+main {
+  width: 90%;
+  max-width: 800px;
+  margin: 32px auto;
+}
+
+.intro {
+  padding: 32 px;
+color: black;
+  
+}
+film-list {
+  display: block;
+  margin-top: 32px;
+  width: 100%;
+  padding: 16px;
+}
